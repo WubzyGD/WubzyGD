@@ -22,20 +22,18 @@ I also have a **website**! Have a look at https://wubzy.xyz
 - TypeScript
 - discord.js ~~spent so long on it that it has to be a language~~
 - Python
+- CSS
 
 ### Intermediate Skill
 - Java
-- HTML
-- CSS
 - Lua
 - Bootstrap
+- Vue.js/nuxt
 
-## Wanna "hire" me?
+## Think I could be helpful?
 
-> *I kind of love coding so I'll do just about anything for free*
+> *I kind of love coding so I'll do just about anything for free!*
 
 Contact me on Discord if you want my services! I charge nothing more than a little bit of credit in whatever it is we'll be making. Check out my orgs and respositories, and my works above, to see my portfolio of work.
-
-I also have an email: wubzy@wubzy.xyz. You're free to contact this as well, though I will reply much faster over Discord.
 
 ### Thanks for visiting my page!
